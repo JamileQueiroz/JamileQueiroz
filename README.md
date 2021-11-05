@@ -1,9 +1,11 @@
-<img align="center"  src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100" height="100" /> 
+<img align="center"  src="https://media.giphy.com/media/YP2kIjORrvbrXccl2f/giphy.gif" width="120" height="120" />         I'm **Jamile**!
+
+
 
 
 ##
 
-I'm **Jamile**, developing solutions for **Data** and **Programming**. <img align="center" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" width="100" height="100" /> <br>
+... developing solutions for **Data** and **Programming**. <img align="center" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" width="100" height="100" /> <br>
 
 
 <img align="center" src="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" width="40" height="40" />  I'm currently learning about FrontEnd. <img align="center" src="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="40" height="40" /> <br>
