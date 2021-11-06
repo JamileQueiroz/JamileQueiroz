@@ -30,8 +30,9 @@ I'm looking for collaborate on BI projects. <img align="center" src="https://med
 
 ## 
 
-[![Generate SVG image](https://github.com/JamileQueiroz/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/JamileQueiroz/github-contributions-snake/actions/workflows/cron.yml)
-<img src="https://raw.githubusercontent.com/JamileQueiroz/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+## Contributions
+
+![snake gif](https://github.com/JamileQueiroz/JamileQueiroz/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
@@ -44,4 +45,5 @@ I'm looking for collaborate on BI projects. <img align="center" src="https://med
 ### **Refers**
 
    [How to personalize your Github profile](https://github.com/rafaballerini/PerfilGithub)<br>
-   [Git stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md)
+   [Git stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md) <br>
+   [Snake-eating contribution graph](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)
