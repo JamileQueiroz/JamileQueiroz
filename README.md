@@ -30,6 +30,17 @@ I'm looking for collaborate on BI projects. <img align="center" src="https://med
 
 ## 
 
+[![Generate SVG image](https://github.com/JamileQueiroz/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/JamileQueiroz/github-contributions-snake/actions/workflows/cron.yml)
+<img src="https://raw.githubusercontent.com/JamileQueiroz/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+
+##
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JamileQueiroz&theme=tokyonight)](https://github.com/JamileQueiroz)
+
+##
+
 ### **Refers**
 
    [How to personalize your Github profile](https://github.com/rafaballerini/PerfilGithub)<br>
