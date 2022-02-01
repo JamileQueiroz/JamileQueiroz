@@ -8,7 +8,7 @@
 ... developing solutions for **Data** and **Programming**. <img align="center" src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" width="100" height="100" /> <br>
 
 
-<img align="center" src="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" width="40" height="40" />  I'm currently learning about FrontEnd. <img align="center" src="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="40" height="40" /> <br>
+<img align="center" src="https://media.giphy.com/media/ObZ7fBhu00xqNojNdK/giphy.gif" width="40" height="40" />  I'm currently learning about BackEnd. <img align="center" src="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="40" height="40" /> <br>
 
 I'm looking for collaborate on BI projects. <img align="center" src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="100" height="100" />  <br>
 
